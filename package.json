@@ -1,0 +1,23 @@
+{
+  "name": "luckycodes",
+  "version": "1.0.0",
+  "main": "luckycodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./luckycodes.js",
+    "dev": "nodemon ./luckycodes.js"
+  },
+  "keywords": [],
+  "author": "History#2239",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "node": "^16.19.0",
+    "nodemon": "^2.0.20"
+  },
+  "description": "Bot de testes da LuckyCodes."
+}
